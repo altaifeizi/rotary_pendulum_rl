@@ -1,5 +1,3 @@
-![Rotary Pendulum](images/rotary_pendulum.png)
-
 # Neural Network Agent for STM32 Inverted Pendulum Project
 
 [![Python](https://img.shields.io/badge/python-3.11-blue)](https://www.python.org/downloads/release/python-3111/)
@@ -10,6 +8,8 @@
 **Repository for a custom neural network agent developed primarily in Python and C. This project supports the development and implementation of an improved agent for the control of a custom rotating inverted pendulum application.**
 
 > **Note:** The actual application hardware (STM32 project) can be found [here](https://www.alibaba.com/product-detail/Custom-Rotating-inverted-pendulum-First-order_1600884506247.html?%20__detailProductImg=https%3A%2F%2Fs.alicdn.com%2F%40sc04%2Fkf%2FH25ae61ac257d466da2bfecf52b2413fak.jpg_200x200.jpg).
+
+![Rotary Pendulum](images/rotary_pendulum.png)
 
 ---
 
