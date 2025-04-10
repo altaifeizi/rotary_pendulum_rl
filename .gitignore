@@ -1,0 +1,27 @@
+# Python-bezogene Dateien
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtuelle Umgebungen (nicht ins Repo aufnehmen)
+venv_tf/
+env/
+*.venv/
+
+# Verteilungs- und Buildverzeichnisse (für Python)
+build/
+dist/
+*.egg-info/
+
+# PyCharm-spezifische Einstellungen
+.idea/
+
+# C-bezogene Build-Artefakte
+*.o
+*.so
+*.a
+*.dylib
+
+# Weitere systembezogene Dateien
+.DS_Store
+Thumbs.db
