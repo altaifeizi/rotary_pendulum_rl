@@ -1,4 +1,11 @@
+![Rotary Pendulum](images/rotary_pendulum.png)
+
 # Neural Network Agent for STM32 Inverted Pendulum Project
+
+[![Python](https://img.shields.io/badge/python-3.11-blue)](https://www.python.org/downloads/release/python-3111/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![Repo Size](https://img.shields.io/github/repo-size/altaifeizi/rotary_pendulum_rl)](https://github.com/altaifeizi/rotary_pendulum_rl)
+[![Last Commit](https://img.shields.io/github/last-commit/altaifeizi/rotary_pendulum_rl)](https://github.com/altaifeizi/rotary_pendulum_rl/commits/main)
 
 **Repository for a custom neural network agent developed primarily in Python and C. This project supports the development and implementation of an improved agent for the control of a custom rotating inverted pendulum application.**
 
@@ -120,14 +127,13 @@ Feel free to open an issue or submit a pull request with any improvements or ide
 
 ---
 
-*This README was generated to help users understand, set up, and contribute to the Agent project. If further clarifications are needed, please open an issue on GitHub.*
-
----
-
 ## License
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
+---
+
+*This README was generated to help users understand, set up, and contribute to the Agent project. If further clarifications are needed, please open an issue on GitHub.*
 
 ---
 
